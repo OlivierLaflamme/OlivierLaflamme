@@ -1,20 +1,17 @@
-### About me 
+## Hi, I'm Olivier
 
-<!--
-**OlivierLaflamme/OlivierLaflamme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p><a href="https://twitter.com/olivier_boschko"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/olivierlaflammelink/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/olivier.laflamme/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> <a href="https://medium.com/@Boschko"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> 
+<a href="olivierlaflamme.github.io/"><img src="https://img.shields.io/badge/github.io-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
+<a href="https://buymeacoff.ee/Boschko"><img src="https://img.shields.io/badge/Support Me-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
-Here are some ideas to get you started:
+I know nothing about reverse engineering and binary exploit, but I know how to get CTF flags. I specialize in mind-reading and guessing flags. Primarily I solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on a SLAE64 and CRTE
+- 🌱 I’m currently learning everything 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2020 Goals: Perform my first Red-Team engagment 
+- ⚡ Fun fact: I love to doodle and explaine concepts in Microsoft Paint 
 
-<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="olivierlaflammelink"><a class="LI-simple-link" href='https://ca.linkedin.com/in/olivierlaflammelink?trk=profile-badge'>Olivier Laflamme</a></div>
+----
 
-<div class="LI-profile-badge"  data-version="v1" data-size="large" data-locale="en_US" data-type="horizontal" data-theme="light" data-vanity="olivierlaflammelink"><a class="LI-simple-link" href='https://ca.linkedin.com/in/olivierlaflammelink?trk=profile-badge'>Olivier Laflamme</a></div>
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OlivierLaflamme&show_icons=true&hide_border=true" />
