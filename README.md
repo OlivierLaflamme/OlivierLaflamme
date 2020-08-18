@@ -11,6 +11,7 @@ I know nothing about reverse engineering and binary exploit, but I know how to g
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Perform my first Red-Team engagment 
 - ⚡ Fun fact: I love to doodle and explaine concepts in Microsoft Paint 
+- 😄 Pronouns: he/him
 
 ----
 
