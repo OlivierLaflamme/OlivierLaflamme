@@ -10,9 +10,12 @@ I'm a passionate Cyber Security Analyst @GoSecure. I also love CTS's on that not
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Perform my first Red-Team engagment 
-- ⚡ Fun fact: I love to doodle and explaine concepts in Microsoft Paint 
+- ⚡ Fun fact: I love to doodle and explain concepts in Microsoft Paint 
 - 😄 Pronouns: he/him
 
 ----
 
-<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OlivierLaflamme&show_icons=true&hide_border=true" />
+<img align="left" alt="Jatin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=OlivierLaflamme&show_icons=true&hide_border=true" />                   
+
+
+
