@@ -4,7 +4,7 @@
 <a href="olivierlaflamme.github.io/"><img src="https://img.shields.io/badge/github.io-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a>
 <a href="https://buymeacoff.ee/Boschko"><img src="https://img.shields.io/badge/Support Me-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
-I'm a passionate Cyber Security Analyst @GoSecure. I also love CTS's on that note - I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
+I'm a passionate Cyber Security Analyst @GoSecure. I love CTS's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
 - 🔭 I’m currently working on SLAE64 and CRTE
 - 🌱 I’m currently learning everything 🤣
