@@ -1,6 +1,5 @@
 ## Hi, I'm Olivier
 
-  <!---[<img src="https://github.com/sciencepal/sciencepal/blob/master/discord-round.svg" width="3.5%"/>](https://discord.gg/JPKZcdd)--->
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/olivier_boschko)
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olivierlaflammelink/)
   [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/olivier.laflamme/)
