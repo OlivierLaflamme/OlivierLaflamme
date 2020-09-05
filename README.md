@@ -13,6 +13,7 @@ I'm a passionate Cyber Security Analyst @GoSecure. I love CTS's, HackTheBox, and
 - 🥅 2020 Goals: Perform my first Red-Team engagment 
 - ⚡ Fun fact: I love to doodle and explain concepts in Microsoft Paint 
 - 😄 Pronouns: he/him
+- [📚](https://hideandsec.sh/user/6) My Blog
 
 ----
 
