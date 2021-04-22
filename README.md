@@ -7,7 +7,7 @@
   
 I'm a passionate Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
-- 🔭 I’m currently working on CRTO 
+- 🔭 I’m currently working on gold farming / botting 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Perform my first Red-Team engagment 
