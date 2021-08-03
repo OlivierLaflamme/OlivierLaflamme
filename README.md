@@ -10,7 +10,7 @@ I'm a passionate Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and
 - 🔭 I’m currently working on gold farming / botting 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Perform my first Red-Team engagment 
+- 🥅 2021 Goals: Find more 0-days and get more CVE's 
 - ⚡ Fun fact: I love to doodle and explain concepts in Microsoft Paint 
 - 😄 Pronouns: he/him
 - [📚](https://hideandsec.sh/user/6) My Blog
