@@ -10,9 +10,8 @@ I'm a passionate Red Team Operator @RBC previously Cyber Security Analyst @GoSec
 - 🔭 I’m currently working on gold farming / botting 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Find more 0-days and get more CVE's 
+- 🥅 2022 Goals: Blog more
 - ⚡ Fun fact: I love to doodle and explain concepts in Microsoft Paint 
-- 😄 Pronouns: he/him
 - [📚](https://boschko.ca) My Blog
 
 ----
