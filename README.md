@@ -7,11 +7,11 @@
   
 I'm a passionate Red Team Operator @RBC previously Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
-- 🔭 I’m currently working on gold farming / botting 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Blog more
-- ⚡ Fun fact: I love to doodle and explain concepts in Microsoft Paint 
+- 🔭 At the moment im spending a lot of time developing gold farming / botting scripts & plugins
+- 🌱 I’m currently learning everything 
+- 👯 Always looking to collaborate with others 
+- 🥅 2023 Goals: Blog more
+- ⚡ Fun fact: I explain most concepts & ideas in Microsoft Paint 
 - [📚](https://boschko.ca) My Blog
 
 ----
