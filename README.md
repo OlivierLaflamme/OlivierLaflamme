@@ -1,10 +1,9 @@
 ## Hi, I'm Olivier
 
   [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/olivier_boschko)
-  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in//)
-  [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com//)
+  [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olivierlaflammelink/)
   <a href="mailto:olivierlaflammeinquiry@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
-  
+
 I'm a passionate Red Team Operator @RBC previously Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
 - 🔭 At the moment im spending a lot of time developing gold farming / botting scripts & plugins
@@ -12,7 +11,7 @@ I'm a passionate Red Team Operator @RBC previously Cyber Security Analyst @GoSec
 - 👯 Always looking to collaborate with others 
 - 🥅 2023 Goals: Blog more
 - ⚡ Fun fact: I explain most concepts & ideas in Microsoft Paint 
-- [📚](https://boschko.ca) My Blog
+- You can read up on what I've been up to over at my blog https://boschko.ca
 
 ----
 
