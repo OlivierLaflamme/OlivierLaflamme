@@ -4,7 +4,7 @@
   [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/olivierlaflammelink/)
   <a href="mailto:olivierlaflammeinquiry@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/> </a>
 
-I'm a passionate Red Team Operator @RBC previously Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
+I'm a passionate Red Team Operator @HiddenLayer, previously @RBC and I was once a Cyber Security Analyst @GoSecure. I love CTF's, HackTheBox, and most puzzle games! I know nothing about reverse engineering and binary exploit, but I know how to get flags. I specialize in mind-reading and guessing flags. I primarily solve challenges ranging from pwn to crypto, from crypto to bruteforce, from butefore to guessing, from guessing to ESP…
 
 - 🔭 At the moment im spending a lot of time developing gold farming / botting scripts & plugins
 - 🌱 I’m currently learning everything 
